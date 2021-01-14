@@ -1,12 +1,8 @@
 {
   "name": "dupfinder",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "ToEndAll",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "ASP",
+  "license": "GNU GPLv*"
 }
